@@ -1,0 +1,4 @@
+# Format is: <File name>#<web location>#<MD5 Hash>
+# eg.
+
+api.jar#github.com/Random/api.jar#<insert hash here>
