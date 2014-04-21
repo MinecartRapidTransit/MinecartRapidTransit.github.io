@@ -1,4 +1,4 @@
 # Format is: <File name>#<web location>#<MD5 Hash>
 # eg.
 
-api.jar#github.com/Random/api.jar#<insert hash here>
+api.jar#minecartrapidtransit.github.io/downloads/api.jar#f63257f5d205f62a1a51b77049a01658
