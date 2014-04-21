@@ -2,3 +2,4 @@
 # eg.
 
 api.jar#http://minecartrapidtransit.github.io/downloads/api.jar#aca7aae7bee8c45b52c21a4b464b287e
+gui.jar#http://minecartrapidtransit.github.io/downloads/gui.jar#9032b4310df641296ae36e3d6a4820b3
