@@ -2,4 +2,5 @@
 # eg.
 
 lib/api.jar#http://minecartrapidtransit.github.io/downloads/api.jar#aca7aae7bee8c45b52c21a4b464b287e
-lib/gui.jar#http://minecartrapidtransit.github.io/downloads/gui.jar#9032b4310df641296ae36e3d6a4820b3
+lib/gui.jar#http://minecartrapidtransit.github.io/downloads/gui.jar#cd59aa9cc7594829f6530044788b1d3c
+mrtnetwork.yml#http://minecartrapidtransit.github.io/downloads/mrtnetwork.yml#a2ef37e0b8a5a5e004f4c7e137d6b3d7 
