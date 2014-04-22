@@ -3,4 +3,4 @@
 
 lib/api.jar#http://minecartrapidtransit.github.io/downloads/api.jar#6c510affc14440feab4e4cee8c992a95
 lib/gui.jar#http://minecartrapidtransit.github.io/downloads/gui.jar#fa8f27ba7e7559a4cc84c9b8a6af6dee
-mrtnetwork.yml#http://minecartrapidtransit.github.io/downloads/mrtnetwork.yml#e8c8008768e4477388eb5a3e3f254fd7
+mrtnetwork.yml#http://pastebin.com/raw.php?i=B2e7AwEf#e8c8008768e4477388eb5a3e3f254fd7
