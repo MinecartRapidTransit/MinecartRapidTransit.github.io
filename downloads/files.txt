@@ -1,6 +1,6 @@
 # Format is: <File name>#<web location>#<MD5 Hash>
 # eg.
 
-lib/api.jar#http://minecartrapidtransit.github.io/downloads/api.jar#aca7aae7bee8c45b52c21a4b464b287e
-lib/gui.jar#http://minecartrapidtransit.github.io/downloads/gui.jar#cd59aa9cc7594829f6530044788b1d3c
-mrtnetwork.yml#http://minecartrapidtransit.github.io/downloads/mrtnetwork.yml#a2ef37e0b8a5a5e004f4c7e137d6b3d7 
+lib/api.jar#http://minecartrapidtransit.github.io/downloads/api.jar#6c510affc14440feab4e4cee8c992a95
+lib/gui.jar#http://minecartrapidtransit.github.io/downloads/gui.jar#fa8f27ba7e7559a4cc84c9b8a6af6dee
+mrtnetwork.yml#http://minecartrapidtransit.github.io/downloads/mrtnetwork.yml#a8d2d13db7b3cb6581b28584fc0c8aef
